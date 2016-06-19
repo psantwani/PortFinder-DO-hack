@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/silentx09/PortFinder-DO-hack#readme",
   "dependencies": {
+    "body-parser": "^1.15.1",
+    "fs-extra": "^0.30.0",
     "portastic": "^1.0.1"
   }
 }
